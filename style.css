@@ -1,0 +1,132 @@
+.logo-alter {
+  height: 60px;
+}
+
+.home-bg-ccon {
+  background-color: rgb(221, 115, 115);
+}
+
+.bg-con {
+  background-image: url("./wp4323461.webp");
+  height: 120vh;
+  background-size: cover;
+  padding-top: 175px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.bg-con h1 {
+  font-size: 35px;
+}
+
+.bg-con h2 {
+  font-size: 45px;
+  font-weight: 500;
+}
+
+#nav-txt-alter {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15.5px;
+  color: white;
+}
+
+.donate-alter {
+  background-color: rgb(240, 24, 24);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15.5px;
+  color: white;
+  height: 35px;
+  width: 90px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.info-page-bg {
+  background-color: #fae5e5;
+  background-size: cover;
+}
+
+.stat-img-alter {
+  height: 100%;
+}
+
+.info-h1 {
+  font-size: 25px;
+}
+
+.info-p {
+  font-size: 15px;
+}
+
+.info-btn {
+  height: 40px;
+  width: 135px;
+}
+
+.card-bg {
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+  border-color: rgb(198, 64, 64);
+  border-width: 2px;
+}
+
+.blood-bg {
+  background-color: rgb(215, 17, 17);
+  background-size: cover;
+  opacity: 95%;
+}
+
+.blood-h1 {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 35px;
+}
+
+.blood-h3 {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+}
+
+.blood-p {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+
+.blood-img-alter {
+  width: 100%;
+}
+
+.carousel-bg {
+  background-color: red;
+  opacity: 100%;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+.tick-alterP {
+  height: 20px;
+}
+
+.media-logo-alter {
+  color: blue;
+  font-size: 25px;
+}
+
+.media-logo-alter2 {
+  color: rgb(32, 127, 216);
+  font-size: 25px;
+}
+
+.media-logo-alter3 {
+  color: rgb(10, 10, 164);
+  font-size: 25px;
+}
+
+.heart-alter {
+  color: red;
+}
